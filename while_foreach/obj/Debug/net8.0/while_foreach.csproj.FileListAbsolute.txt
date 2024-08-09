@@ -1,0 +1,14 @@
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\while_foreach\bin\Debug\net8.0\while_foreach.exe
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\while_foreach\bin\Debug\net8.0\while_foreach.deps.json
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\while_foreach\bin\Debug\net8.0\while_foreach.runtimeconfig.json
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\while_foreach\bin\Debug\net8.0\while_foreach.dll
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\while_foreach\bin\Debug\net8.0\while_foreach.pdb
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\while_foreach\obj\Debug\net8.0\while_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\while_foreach\obj\Debug\net8.0\while_foreach.AssemblyInfoInputs.cache
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\while_foreach\obj\Debug\net8.0\while_foreach.AssemblyInfo.cs
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\while_foreach\obj\Debug\net8.0\while_foreach.csproj.CoreCompileInputs.cache
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\while_foreach\obj\Debug\net8.0\while_foreach.dll
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\while_foreach\obj\Debug\net8.0\refint\while_foreach.dll
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\while_foreach\obj\Debug\net8.0\while_foreach.pdb
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\while_foreach\obj\Debug\net8.0\while_foreach.genruntimeconfig.cache
+C:\Users\su002\OneDrive - Konut Kredisi Com Tr Danışmanlık A.Ş\Desktop\test\while_foreach\obj\Debug\net8.0\ref\while_foreach.dll
